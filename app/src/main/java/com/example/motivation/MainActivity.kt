@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import android.view.View
 import com.example.motivation.databinding.ActivityMainBinding
 
+
 class MainActivity : ComponentActivity(), View.OnClickListener {
     private lateinit var binding: ActivityMainBinding
 
@@ -22,3 +23,4 @@ class MainActivity : ComponentActivity(), View.OnClickListener {
         }
     }
 }
+
