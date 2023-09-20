@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/dark_purple"
     android:orientation="horizontal"
-    tools:context=".UserActivity">
+    tools:context=".UI.UserActivity">
 
     <TextView
         android:layout_width="match_parent"
